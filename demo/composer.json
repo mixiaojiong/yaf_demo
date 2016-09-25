@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rivsen/hello-world": "dev-master",
+        "xiaojiong/hello-world": "0.1.0"
+    }
+}

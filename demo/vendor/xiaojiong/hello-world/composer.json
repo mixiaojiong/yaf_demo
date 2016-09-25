@@ -1,0 +1,15 @@
+{
+    "name": "xiaojiong/hello-world",
+    "description": "hello world",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mixiaojiong",
+            "email": "mixiaojiong@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Xiaojiong\\Demo\\": "src" }
+    },
+    "require": {}
+}

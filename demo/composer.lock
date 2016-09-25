@@ -1,0 +1,87 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "d09717afbf1e9166fcdc4e2a70445190",
+    "content-hash": "338fea023a4e119240836c06afdbb29c",
+    "packages": [
+        {
+            "name": "rivsen/hello-world",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Rivsen/hello-world.git",
+                "reference": "82d892b2006967df4990de52a8edf0acf5db75c2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Rivsen/hello-world/zipball/82d892b2006967df4990de52a8edf0acf5db75c2",
+                "reference": "82d892b2006967df4990de52a8edf0acf5db75c2",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Rivsen\\Demo\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Rivsen Tan",
+                    "email": "rivsen1003@gmail.com"
+                }
+            ],
+            "description": "this is a hello world repo for composer.",
+            "time": "2015-04-14 01:51:32"
+        },
+        {
+            "name": "xiaojiong/hello-world",
+            "version": "0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mixiaojiong/hello-world.git",
+                "reference": "0e52eac37b3f33adfed11af8bfd5195d95c7b33d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mixiaojiong/hello-world/zipball/0e52eac37b3f33adfed11af8bfd5195d95c7b33d",
+                "reference": "0e52eac37b3f33adfed11af8bfd5195d95c7b33d",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Xiaojiong\\Demo\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "mixiaojiong",
+                    "email": "mixiaojiong@gmail.com"
+                }
+            ],
+            "description": "hello world",
+            "time": "2016-06-03 09:33:07"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "rivsen/hello-world": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
